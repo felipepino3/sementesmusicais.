@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    color: white;
+    padding: 100px;
+}
+
+body{
+    background-color: black;
+}
+
+strong{
+    color: blueviolet;
+}
+
+.texto-destaque {
+    color: red;
+}
+
+.titulo-blog{
+    color: chocolate;
+}
+
+.urgente{
+    color: red;
+    font-style: italic;
+    font-size: larger;
+}

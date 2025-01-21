@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* Estilo para impressora */
+
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+html{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+div > a {
+    display: none;
+}
+
+img {
+    max-height: 300px;
+}
+
+footer::after {
+    content: 'Esse artigo foi impressora através do site www.pinaograndao.com';
+}
