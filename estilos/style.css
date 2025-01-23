@@ -9,7 +9,7 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-image: linear-gradient(to bottom, #fc0b0b, #fa6b13, #fc0b0b );
+    background-image: linear-gradient(to bottom,#931a2c, #fc0b0b, #fa6b13, #fc0b0b, #931a2c );
     color: white;
 }
 
